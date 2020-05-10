@@ -8,15 +8,7 @@
 
   * <b>Efficinecy</b>
     ![](efficiency_mpi.png)
-  
 
-### MPI + Convergence check
-
-### MPI + Parallel I\O
-
-## Hybrid (MPI + OpenMP)
-
-## Collaborators
-
-[Kostantinos Athinaios](https://github.com/kostasA97)
-[Theofanis Aslanidis](https://github.com/Fanarosss)
+### Collaborators
+* [Aslanidis Theofanis](https://github.com/Fanarosss)
+* [Athinaios Konstantinos](https://github.com/kostasA97)
